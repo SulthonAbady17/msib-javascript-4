@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  margin: auto;
+  background-color: #f0f9ff;
+}
+#div1,
+#div2,
+#div3 {
+  display: inline-block;
+  margin: auto;
+  width: 80%;
+  color: #38bdf8;
+  border: 3px solid black;
+  padding: 10px;
+  text-align: center;
+  background: #0ea5e9;
+  height: 400px;
+  cursor: pointer;
+}
+
+.gambar-container {
+  display: flex;
+}
